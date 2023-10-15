@@ -1,0 +1,11 @@
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\bin\Debug\DateTimeRafael.exe.config
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\bin\Debug\DateTimeRafael.exe
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\bin\Debug\DateTimeRafael.pdb
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.csproj.AssemblyReference.cache
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.csproj.SuggestedBindingRedirects.cache
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.Form1.resources
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.Properties.Resources.resources
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.exe
+C:\Users\rafae\source\repos\DateTimeRafael\DateTimeRafael\obj\Debug\DateTimeRafael.pdb
